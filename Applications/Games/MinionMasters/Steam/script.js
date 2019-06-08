@@ -8,7 +8,7 @@ var installerImplementation = {
         new SteamScript()
             .name("Minion Masters")
             .applicationHomepage("http://minionmastersthegame.com/") // https not supported [05.06.2019]
-            .appId(50130)
+            .appId(489520)
             .author("KREYREN")
             .category("Games")
             .wineDistribution("staging")
